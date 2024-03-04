@@ -6,7 +6,7 @@ Expense Tracker is a simple web application that helps you track your expenses e
 
 - Vedullapalli Shanmukh Sri Sai ([@shanmukh](https://github.com/shanmukhsrisaivedullapalli))
 - Rakesh Gembali ([@rakesh](https://github.com/rakeshgem))
-- Lalith Kumar MVSK ([@lalith]((https://github.com/lalith9555))
+- Lalith Kumar MVSK ([@lalith](https://github.com/lalith9555))
 - KS Namritha ([@namritha](https://github.com/ksnamritha))
 
 ## Features
