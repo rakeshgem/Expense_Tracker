@@ -142,7 +142,7 @@
             data: {
                 labels: ["January", "February", "March", "April", "May", "June"],
                 datasets: [{
-                    label: "Sales",
+                    label: "Expenses",
                     backgroundColor: "#36a2eb",
                     data: [20, 30, 40, 50, 60, 70]
                 }]
@@ -150,7 +150,7 @@
             options: {
                 title: {
                     display: true,
-                    text: "Monthly Sales"
+                    text: "Monthly Expenses"
                 }
             }
         });
@@ -159,9 +159,9 @@
         new Chart("voteCountChart", {
             type: "line",
             data: {
-                labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+                labels: ["2018", "2019", "2020", "2021", "2022", "2023"],
                 datasets: [{
-                    label: "Number of Votes",
+                    label: "Expenses",
                     backgroundColor: "#f87979",
                     borderColor: "#f87979",
                     data: [12, 19, 3, 5, 2, 3]
@@ -170,7 +170,7 @@
             options: {
                 title: {
                     display: true,
-                    text: "Vote Count"
+                    text: "Yearly Expenses"
                 }
             }
         });
@@ -179,13 +179,13 @@
         new Chart("categoryExpensesChart", {
             type: "bar",
             data: {
-                labels: ["Category 1", "Category 2", "Category 3", "Category 4", "Category 5"],
+                labels: ["Food", "Shopping", "Travel", "Rent", "Insurance","Education","Taxes"],
                 datasets: [{
                     label: "Expenses",
                     backgroundColor: "#ff6384",
                     borderColor: "#ff6384",
                     borderWidth: 1,
-                    data: [10, 20, 30, 40, 50]
+                    data: [55, 49, 44, 24, 15, 50, 20]
                 }]
             },
             options: {
@@ -221,7 +221,7 @@
         options: {
             title: {
                 display: true,
-                text: "Curvy Line Chart"
+                text: "This Week"
             },
             legend: {
                 display: false
