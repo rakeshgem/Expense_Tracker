@@ -20,7 +20,7 @@ Expense Tracker is a simple web application that helps you track your expenses e
 ## Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Django
+- Backend: Next.JS
 - Database: SQLite
 
 ## Setup Instructions
